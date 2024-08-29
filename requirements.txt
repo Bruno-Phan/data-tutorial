@@ -8,3 +8,4 @@ jupyterlab_myst
 openpyxl
 xlsxwriter
 pydata-sphinx-theme
+sphinx
