@@ -10,8 +10,8 @@ on:
     # unrelated files, you can make this run only if a file within that specific
     # folder has been modified.
     #
-    paths:
-    - /bruno-book/
+    # paths:
+    # - /bruno-book/
 
 # This job installs dependencies, builds the book, and pushes it to `gh-pages`
 jobs:
@@ -52,7 +52,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v2
       with:
-        path: "./bruno/_build/html"
+        path: "/bruno/_build/html"
 
     # Deploy the book's HTML to GitHub Pages
     - name: Deploy to GitHub Pages
