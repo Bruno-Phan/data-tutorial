@@ -1,3 +1,10 @@
 jupyter-book
 matplotlib
 numpy
+pandas
+myst
+jupyterlab
+jupyterlab_myst
+openpyxl
+xlsxwriter
+pydata-sphinx-theme
