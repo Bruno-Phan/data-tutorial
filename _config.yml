@@ -33,4 +33,4 @@ html:
 sphinx:
   recursive_update: true
   config:
-    html_theme: pydate_sphinx_theme
+    html_theme: pydata_sphinx_theme
