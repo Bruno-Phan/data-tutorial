@@ -5,7 +5,7 @@ format: jb-book
 root: intro
 chapters:
 - file: markdown
-- file: notebooks
   sections:
+  - file: notebooks
   - file: python_tutorial/import_data_from_sql_server.ipynb
 - file: markdown-notebooks
