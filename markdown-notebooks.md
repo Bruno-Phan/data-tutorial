@@ -12,42 +12,28 @@ kernelspec:
   name: python3
 ---
 
-# Notebooks with MyST Markdown
+# Kỹ năng phân tích dữ liệu
 
-Jupyter Book also lets you write text-based notebooks using MyST Markdown.
-See [the Notebooks with MyST Markdown documentation](https://jupyterbook.org/file-types/myst-notebooks.html) for more detailed instructions.
-This page shows off a notebook written in MyST Markdown.
+Ở chương này mình sẽ giới thiệu một số kỹ thuật phân tích dữ liệu cũng như đưa ra đánh giá của cá nhân mình về
+mức độ thực tiễn ứng dụng của các kỹ thuật phân tích này bao gồm:
 
-## An example cell
+## Descriptive analytics
 
-With MyST Markdown, you can define code cells with a directive like so:
+Chúa tể cần thiết!
+Phân tích mô tả chính là vỡ lòng của phân tích dữ liệu, hay gọi theo cách bình dân là "làm báo cáo".
+Vậy báo cáo cái gì?
+Thông thường trong 1 doanh nghiệp sẽ có các loại báo cáo: báo cáo kinh doanh, báo cáo tài chính, báo cáo vận hành (trong báo cáo vận hành thì tùy thuộc vào lĩnh vực kinh doanh sẽ có các loại báo cáo khác nhau). Thực tế hiện nay, các cấp quản lí đa phần vẫn quen với cách tiếp cận số liệu tổng hợp, tăng giảm theo phần trăm, drill down theo từng kênh kinh doanh, phòng ban, cá nhân,... Tuy loại báo cáo này không phức tạp nhưng thường được yêu cầu thường xuyên, nhanh và chính xác, nên cần phải có kỹ năng tốt và tận dụng các công cụ như excel để có thể thực hiện nhanh chóng.
+Ngoài ra đối tượng nhận báo cáo thường là những người không có chuyên môn về dữ liệu do đó cần phải đơn giản, và đôi khi cần được bảo mật "nhẹ" bằng mật khẩu riêng cho từng người, do đó Excel là công cụ hoàn hảo để thực hiện.
 
-```{code-cell}
-print(2 + 2)
-```
+## Diagnostic analytics
 
-When your book is built, the contents of any `{code-cell}` blocks will be
-executed with your default Jupyter kernel, and their outputs will be displayed
-in-line with the rest of your content.
+Adhoc report!
 
-```{seealso}
-Jupyter Book uses [Jupytext](https://jupytext.readthedocs.io/en/latest/) to convert text-based files to notebooks, and can support [many other text-based notebook files](https://jupyterbook.org/file-types/jupytext.html).
-```
+Sếp nhận được thông tin về một vấn đề phát sinh và yêu cầu báo cáo ngay lập tức các số liệu liên quan đến ngữ cảnh xảy ra vấn đề. Đây là kịch bản thường xuyên gặp phải. Để thực hiện tốt loại báo cáo này, Power BI là hoàn toàn "KHÔNG PHÙ HỢP". Không như bạn vẫn thường nghe, mặc dù BI hỗ trợ tốt giao diện trực quan, thao tác kéo thả khá đơn giản, tuy nhiên việc kéo thả để tìm hiểu một vấn đề phức tạp, có nhiều yếu tố sẽ là thảm họa nếu như bạn không nắm chắc Data Model và Context của báo cáo Power BI. Trong trường hợp này, hãy sử dụng Python!
 
-## Create a notebook with MyST Markdown
+Một sự chuẩn bị tốt với nguồn dữ liệu được kết nối tự động và các phép tính được modul hóa một cách logic sẽ giúp bạn nhanh chóng tìm ra nguyên nhân của vấn đề thông qua các chỉ số, biểu đồ bằng các câu lệnh loop và function quan các tác nhân nghi ngờ một cách nhanh chóng.
+## Forecast
 
-MyST Markdown notebooks are defined by two things:
+Khả năng dự báo, tất nhiên là một phần nâng cao của phân tích dữ liệu và Python là công cụ không thể tốt hơn cho bạn!
 
-1. YAML metadata that is needed to understand if / how it should convert text files to notebooks (including information about the kernel needed).
-   See the YAML at the top of this page for example.
-2. The presence of `{code-cell}` directives, which will be executed with your book.
-
-That's all that is needed to get started!
-
-## Quickly add YAML metadata for MyST Notebooks
-
-If you have a markdown file and you'd like to quickly add YAML metadata to it, so that Jupyter Book will treat it as a MyST Markdown Notebook, run the following command:
-
-```
-jupyter-book myst init path/to/markdownfile.md
-```
+Các bài viết trong series này sẽ lần lượt chia sẻ cho bạn vì sao mình đưa ra nhận định trên và mình đã làm thế nào?
