@@ -1,4 +1,4 @@
-# Chào bạn, mình là Lão Phan!
+# Chào bạn, mình là Bảo!
 
 Hiện tại mình đang là Data Analyst trong lĩnh vực bảo hiểm. Background trước đây của mình là sinh viên FTU chuyên ngành Kinh tế đối ngoại. 
 
