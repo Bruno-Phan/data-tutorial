@@ -12,8 +12,8 @@ parts:
   - caption: Machine Learning
     chapters:
     - file: python_tutorial/machine learning/intro
-    sections:
-    - file: python_tutorial/machine learning/monte_carlo_simulation
+      sections:
+      - file: python_tutorial/machine learning/monte_carlo_simulation
     # - file: python_tutorial/machine learning/intro
     #   sections:
 
