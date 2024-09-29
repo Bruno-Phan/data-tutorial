@@ -6,6 +6,18 @@ Sau một khoảng thời gian mông lung khi ra trường, do may mắn đượ
 
 Do là tự học nên mình đã mất rất nhiều thời gian để tìm hiểu các khái niệm mới, đặc biệt là sử dụng phần mềm và các ngôn ngữ lập trình. Gần đây mình thấy có nhiều em là sinh viên tự học cũng có những câu hỏi mà trước đây mình cũng từng mất rất nhiều thời gian để tìm ra câu trả lời, do đó mình tạo trang web này để chia sẻ lại các paint point mà người mới học nào cũng gặp phải để giúp cho các bạn tránh lãng phí thời gian vào những vấn đề kỹ thuật, đặc biệt là những bạn đang tự học.
 
+Trong trang này mình sẽ thường xuyên đăng ngẫu nhiên các kỹ thuật thực tiễn sử dụng trong phân 
+tích dữ liệu sử dụng Jupyter Notebook.
+
+Các chủ đề chính sẽ bao gồm:
+- Data In/Out
+- Data Processing
+- Data Aggregation
+- Data Visualization
+- Machine Learning
+
+
+
 ***Facebook***: https://www.facebook.com/profile.php?id=61556599619491 \
 ***Email***: thaibao1306@gmail.com
 

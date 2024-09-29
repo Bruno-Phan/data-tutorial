@@ -4,12 +4,17 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Python Tutorials
+  - caption: Python In/Out
     chapters:
-      - file: python_tutorial/intro
-        sections:
-        - file: python_tutorial/python_in_out/intro
-        - file: python_tutorial/python_in_out/import_data_from_sql_server.ipynb
-        sections:
-          - file: python_tutorial/machine learning/monte_carlo_simulation
+    - file: python_tutorial/python_in_out/intro
+      sections:
+      - file: python_tutorial/python_in_out/import_data_from_sql_server.ipynb
+  - caption: Machine Learning
+    chapters:
+    - file: python_tutorial/machine learning/intro
+    sections:
+    - file: python_tutorial/machine learning/monte_carlo_simulation
+    # - file: python_tutorial/machine learning/intro
+    #   sections:
+
     # - file: markdown-notebooks
