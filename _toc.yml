@@ -10,4 +10,6 @@ parts:
         sections:
         - file: python_tutorial/python_in_out/intro
         - file: python_tutorial/python_in_out/import_data_from_sql_server.ipynb
+        sections:
+          - file: python_tutorial/machine learning/monte_carlo_simulation
     # - file: markdown-notebooks
