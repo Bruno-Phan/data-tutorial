@@ -14,6 +14,11 @@ parts:
     - file: python_tutorial/machine learning/intro
       sections:
       - file: python_tutorial/machine learning/monte_carlo_simulation
+  - caption: Data Proccessing
+    chapters:
+      - file: python_tutorial/data proccessing/where_statement
+        # sections:
+        # - file: python_tutorial/machine learning/monte_carlo_simulation
     # - file: python_tutorial/machine learning/intro
     #   sections:
 
