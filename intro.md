@@ -1,4 +1,4 @@
-# Chào bạn, mình là Bảo!
+# Chào bạn, mình là Ivan!
 
 Hiện tại mình đang là Data Analyst trong lĩnh vực bảo hiểm. Background trước đây của mình là sinh viên FTU chuyên ngành Kinh tế đối ngoại. 
 

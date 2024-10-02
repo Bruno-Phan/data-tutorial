@@ -9,6 +9,7 @@ parts:
     - file: python_tutorial/python_in_out/intro
       sections:
       - file: python_tutorial/python_in_out/import_data_from_sql_server.ipynb
+      - file: python_tutorial/python_in_out/auto import lib.md
   - caption: Machine Learning
     chapters:
     - file: python_tutorial/machine learning/intro
