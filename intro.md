@@ -48,9 +48,8 @@ Throughout my career, I have applied these skills to various analytical and pred
 
 You can reach me on  
  
-***LinkedIn***:
-
-***Facebook***: https://www.facebook.com/profile.php?id=61556599619491 \
+***LinkedIn***: https://www.linkedin.com/in/phan-duong-thai-bao-30b839aa
+***Facebook***: https://www.facebook.com/profile.php?id=61556599619491 
 ***Email***: thaibao1306@gmail.com
 
 
