@@ -1,5 +1,12 @@
-# Chào bạn, mình là Ivan!
+
 # About the Author
+
+
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczPAQ7d93Ep0-XpYNB0YsSHTKlwY_f97QE2fVQVDLEnn15MqOKmfVGrQcQ=w722-h965-s-no-gm?authuser=0" 
+     alt="Bao's profile photo" 
+     width="180" 
+     style="border-radius: 50%; margin-right: 15px;" 
+     align="left"/>
 
 ## 👋 Hi, I'm Bao
 
