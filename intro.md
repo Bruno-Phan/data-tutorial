@@ -1,22 +1,47 @@
 # Chào bạn, mình là Ivan!
+# About the Author
 
-Hiện tại mình đang là Data Analyst trong lĩnh vực bảo hiểm. Background trước đây của mình là sinh viên FTU chuyên ngành Kinh tế đối ngoại. 
+## 👋 Hi, I'm Bao
 
-Sau một khoảng thời gian mông lung khi ra trường, do may mắn được tiếp xúc và cảm thấy yêu thích với phân tích dữ liệu nên mình đã tự tìm tòi và học hỏi các kỹ năng và kiến thức về phân tích dữ liệu.
+I am a **Data Analyst** with hands-on experience in transforming raw data into actionable insights using modern analytical tools and programming languages. My work focuses on data-driven problem-solving and delivering business value through clear visualization and robust analytics.
 
-Do là tự học nên mình đã mất rất nhiều thời gian để tìm hiểu các khái niệm mới, đặc biệt là sử dụng phần mềm và các ngôn ngữ lập trình. Gần đây mình thấy có nhiều em là sinh viên tự học cũng có những câu hỏi mà trước đây mình cũng từng mất rất nhiều thời gian để tìm ra câu trả lời, do đó mình tạo trang web này để chia sẻ lại các paint point mà người mới học nào cũng gặp phải để giúp cho các bạn tránh lãng phí thời gian vào những vấn đề kỹ thuật, đặc biệt là những bạn đang tự học.
+---
 
-Trong trang này mình sẽ thường xuyên đăng ngẫu nhiên các kỹ thuật thực tiễn sử dụng trong phân 
-tích dữ liệu sử dụng Jupyter Notebook.
+## 💼 Professional Experience
 
-Các chủ đề chính sẽ bao gồm:
-- Data In/Out
-- Data Processing
-- Data Aggregation
-- Data Visualization
-- Machine Learning
+I have practical experience working with:
 
+- **Python** — data cleaning, exploratory data analysis (EDA), statistical modeling, and machine learning  
+- **SQL** — data extraction, transformation, and complex query optimization  
+- **Power BI** — dashboard design, data storytelling, and executive reporting  
 
+Throughout my career, I have applied these skills to various analytical and predictive projects.
+
+---
+
+## 📊 Featured Projects
+
+- **Anomaly Detection** — implemented data-driven approaches to identify irregularities in business operations, enhancing decision-making accuracy  
+- **Time Series Forecasting** — developed and compared forecasting models (ARIMA, LSTM, Prophet) to predict key performance indicators  
+- **Reporting Automation** — built automated reporting pipelines integrating SQL and Power BI for real-time performance monitoring  
+- **Compensation Analysis** — analyzed compensation and incentive data to improve transparency and fairness across teams  
+
+---
+
+## 🎯 Areas of Interest
+
+- Data visualization and dashboard design  
+- Predictive analytics and statistical modeling  
+- Process automation and data pipeline optimization  
+- Business intelligence for operational efficiency  
+
+---
+
+## 📫 Contact
+
+You can reach me on  
+ 
+***LinkedIn***:
 
 ***Facebook***: https://www.facebook.com/profile.php?id=61556599619491 \
 ***Email***: thaibao1306@gmail.com
